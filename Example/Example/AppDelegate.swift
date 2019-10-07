@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
      
      static var backendUrl: String? = "https://your-app.herokuapp.com"
      */
-    static var backendUrl: String? = nil
+    static var backendUrl: String? = boiseinteriorsterminal.herokuapp.com
     
     static var apiClient: APIClient?
 
